@@ -1,6 +1,6 @@
 {
   "name": "react-activity-feed",
-  "version": "0.9.26",
+  "version": "0.9.26-athlinks",
   "description": "React components to create activity and notification feeds",
   "author": "GetStream",
   "license": "BSD-3-Clause",
@@ -120,7 +120,8 @@
     "stylelint": "^8.1.1",
     "stylelint-config-standard": "^18.2.0",
     "sugarss": "^2.0.0",
-    "webpack": "^4.12.2"
+    "webpack": "^4.12.2",
+    "yarn": "^1.21.1"
   },
   "files": [
     "dist"
@@ -134,7 +135,7 @@
     "anchorme": "^1.1.2",
     "emoji-mart": "^2.8.1",
     "eslint-plugin-markdown": "^1.0.0",
-    "getstream": "^4.0.7",
+    "getstream": "github:athlinks/stream-js#athlinks-contrib",
     "immutable": "^4.0.0-rc.9",
     "lodash": "^4.17.11",
     "moment": "^2.22.2",
